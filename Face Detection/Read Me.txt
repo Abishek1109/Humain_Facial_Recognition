@@ -1,0 +1,7 @@
+To give the input as 
+
+#image format-Run Image.py
+
+#Video format-Run Video.py
+
+#Live webcam-Live.py

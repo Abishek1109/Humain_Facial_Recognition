@@ -1,0 +1,3 @@
+Here the dataset is trained and stored in fer.h5 and fer.json file, in order to train your own file use Training.py file by importing the .csv file
+
+#To run the program-Run Emotion Recognition.py

@@ -1,0 +1,3 @@
+The code given has been already trained, inorder to train again use Training.py file from Emotion Recognition floder
+
+#To run the program - run Age&Gender.py
